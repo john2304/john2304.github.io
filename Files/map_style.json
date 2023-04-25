@@ -1,0 +1,8 @@
+"sources":{
+        "composite":{
+           "tiles": ["https://vector.hereapi.com/v2/vectortiles/base/mc/{z}/{x}/{y}/omv?apikey=uYO-U50blo8jQQH04g_zjd7fuVmhQtRkLipMY7oG6fY"],
+           "minzoom": 0,
+           "maxzoom": 17,
+           "type":"vector"
+        }
+     },
